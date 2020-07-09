@@ -1,4 +1,4 @@
-# Coded By Fallyn #
+# Coded By krypton #
 import requests, json, sys, os, hashlib, getpass
 from multiprocessing.pool import ThreadPool
 os.system("clear")
@@ -23,9 +23,9 @@ crsh = []
 Banner =(
 g+""" ____                      _____                           | __ ) _ __ _   _  ___ ___|  ___|__  _ __ ___ ___          |  _ \| '__| | | |/ __/ _ \ |_ / _ \| '__/ __/ _ \         | |_) | |  | |_| | (_|  __/  _| (_) | | | (_|  __/         |____/|_|   \__,_|\___\___|_|  \___/|_|  \___\___|
 
-        [+]Auth   : Team Rabbitch Indonesia
-        [+]Author : Chandra Aditya
-        [+]Release: 29-04-2019
+        [+]Auth   : Team united crime
+        [+]Author : FR13NDS
+        [+]Release: 9-04-2020
         [+]Versi  : 1.0 {Testing}
 """)    
 def login():
